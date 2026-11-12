@@ -1,0 +1,6 @@
+{
+  "name": "Nodo Tecnológico - Capacitación & Campus Virtual",
+  "description": "Plataforma integral de capacitación tecnológica con catálogo de bootcamps, aula interactiva, laboratorios de robótica e IA, portal del estudiante y certificación digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
